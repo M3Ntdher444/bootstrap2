@@ -1,0 +1,28 @@
+header{
+    background-image: url("../img/bg-masthead.jpg");
+    background-size: cover;
+}
+
+body{
+    height: auto;
+}
+
+.input-group{
+    width: 50% !important;
+}
+
+.section1{
+    background-color:azure;
+    height: 200px ;
+}
+
+.design{
+    height: auto;
+}
+.ifo{
+    background-color: azure;
+    height: auto;
+}
+.list ul li{
+    list-style: none;
+}
